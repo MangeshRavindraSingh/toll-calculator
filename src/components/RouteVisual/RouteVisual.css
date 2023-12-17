@@ -1,0 +1,9 @@
+.leaflet-container {
+    height: 100vh;
+    width: 100%;
+}
+
+.bg-teal{
+    background-color: #40B5AD !important;
+    border: none !important;
+}

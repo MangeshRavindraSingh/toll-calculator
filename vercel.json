@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+        { "source": "/api/:path(.*)", "destination": "https://apis.tollguru.com/:path" },
+        { "source": "/(.*)", "destination": "/index.html" }
+    ]
+}
